@@ -1,17 +1,17 @@
 <h1 align="center">Hi there 👋, I'm Chhunlay</h1>
 
 <p align="center">
-  💻 Odoo Developer | 🧠 Lifelong Learner 
+  💻 Odoo Developer | 🐣 Noobie Programmer 
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🧑‍💼 I'm an experienced Odoo developer with a strong focus on backend development and business logic customization.
-- 🛠️ I enjoy working on ERP customizations, automations, and building clean, maintainable code.
-- 🌱 Currently learning advanced Python techniques and exploring modern frontend integrations with Odoo.
-- 🤝 Open to collaborating on meaningful Odoo and Python-based projects.
+- 🧑‍💼 I'm currently growing my skills in Odoo development and backend programming.
+- 🛠️ I enjoy solving real business problems through automation and ERP customization.
+- 🌱 Always learning — especially Python, Odoo modules, and system architecture.
+- 🎥 I also share what I learn on YouTube to help others grow with me.
 
 ---
 
