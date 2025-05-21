@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Chhunlay</h1>
 
 <p align="center">
-  💻 Odoo Developer | 🧠 Lifelong Learner | 🇰🇭 Based in Cambodia
+  💻 Odoo Developer | 🧠 Lifelong Learner 
 </p>
 
 ---
@@ -25,17 +25,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
-
-### 🚀 Featured Projects
-
-Here are a few repositories you might want to pin:
-
-- 🧾 **Odoo HR Module Enhancements** – Extensions for employee contracts, overtime, and attendance management.
-- 📈 **Excel Report Generator** – Custom Odoo report for leave and work entries with dynamic Excel export.
-- 🔐 **Access Rights Control** – Custom group and permission management for Odoo portal users.
-
-(👉 *Pin these and add detailed READMEs for each*)
 
 ---
 
@@ -51,9 +40,9 @@ Here are a few repositories you might want to pin:
 
 ### 📫 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile) *(replace with your real link)*
-- 📧 Email: yourname@example.com
-- 🌐 Portfolio (optional): [yourwebsite.com](https://yourwebsite.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/chhunlay-tip)
+- 📧 Email: tipchhunlay@gmail.com
+- 🌐 Youtube: https://www.youtube.com/@chhunlaytc
 
 ---
 
@@ -63,5 +52,5 @@ Here are a few repositories you might want to pin:
 
 ---
 
-*Thanks for visiting! Feel free to check out my repositories and reach out if you want to collaborate!*
+*Thanks for visiting!*
 
