@@ -41,8 +41,8 @@
 ### 📫 Connect with Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/chhunlay-tip)
-- 📧 Email: tipchhunlay@gmail.com
-- 🌐 Youtube: https://www.youtube.com/@chhunlaytc
+- 📧 Email: [tipchhunlay@gmail.com](mailto:tipchhunlay@gmail.com)
+- 🎥 YouTube: [@chhunlaytc](https://www.youtube.com/@chhunlaytc)
 
 ---
 
